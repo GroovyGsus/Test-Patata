@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 86e0e68a4f599554485756253385ed78
+timeCreated: 1542215797
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Grip_Cuerda002
+    100002: Grip_Cuerda1
+    100004: Grip_Cuerda_Final
+    100006: Hoja
+    100008: Hoja001
+    100010: Hoja002
+    100012: Hoja003
+    100014: Hoja004
+    100016: Hoja005
+    100018: Hoja006
+    100020: //RootNode
+    100022: Plane001
+    100024: Punta_Piedra
+    100026: Rama
+    100028: Ramita_Detach
+    100030: Torus001
+    100032: Torus002
+    400000: Grip_Cuerda002
+    400002: Grip_Cuerda1
+    400004: Grip_Cuerda_Final
+    400006: Hoja
+    400008: Hoja001
+    400010: Hoja002
+    400012: Hoja003
+    400014: Hoja004
+    400016: Hoja005
+    400018: Hoja006
+    400020: //RootNode
+    400022: Plane001
+    400024: Punta_Piedra
+    400026: Rama
+    400028: Ramita_Detach
+    400030: Torus001
+    400032: Torus002
+    2300000: Grip_Cuerda002
+    2300002: Grip_Cuerda1
+    2300004: Grip_Cuerda_Final
+    2300006: Hoja
+    2300008: Hoja001
+    2300010: Hoja002
+    2300012: Hoja003
+    2300014: Hoja004
+    2300016: Hoja005
+    2300018: Hoja006
+    2300020: Plane001
+    2300022: Punta_Piedra
+    2300024: Rama
+    2300026: Ramita_Detach
+    2300028: Torus001
+    2300030: Torus002
+    3300000: Grip_Cuerda002
+    3300002: Grip_Cuerda1
+    3300004: Grip_Cuerda_Final
+    3300006: Hoja
+    3300008: Hoja001
+    3300010: Hoja002
+    3300012: Hoja003
+    3300014: Hoja004
+    3300016: Hoja005
+    3300018: Hoja006
+    3300020: Plane001
+    3300022: Punta_Piedra
+    3300024: Rama
+    3300026: Ramita_Detach
+    3300028: Torus001
+    3300030: Torus002
+    4300000: Plane001
+    4300002: Rama
+    4300004: Ramita_Detach
+    4300006: Grip_Cuerda1
+    4300008: Grip_Cuerda002
+    4300010: Grip_Cuerda_Final
+    4300012: Punta_Piedra
+    4300014: Torus001
+    4300016: Torus002
+    4300018: Hoja
+    4300020: Hoja001
+    4300022: Hoja002
+    4300024: Hoja003
+    4300026: Hoja004
+    4300028: Hoja005
+    4300030: Hoja006
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: d03884d1a33869344a56a1a4e7bd480a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: d835bcc6ce52cdc45b212716c2647476, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
